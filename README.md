@@ -19,3 +19,7 @@ This is a *double list*: the first is the contest and for each of them a second 
 - [xml](docs/contests/report.xml)
 - [xsl](docs/contests/report.xsl)
 - [result](docs/contests/report.pdf)
+
+## HOW it works?
+
+TBD
