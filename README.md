@@ -6,7 +6,7 @@ Using the fact that an ODT is just a zip and the text is an XML (content.xml), t
 
 This is a list which template supports a variable number of columns.
 
-- [template](docs/list/report.odt)
+- [template](docs/list/report.odt) and [here](docs/list/template.pdf) to see it in the browser as PDF.
 - [xml](docs/list/report.xml)
 - [xsl](docs/list/report.xsl)
 - [result](docs/list/report.pdf)
@@ -15,7 +15,7 @@ This is a list which template supports a variable number of columns.
 
 This is a *double list*: the first is the contest and for each of them a second list with the questions.
 
-- [template](docs/contests/report.odt)
+- [template](docs/contests/report.odt) and [here](docs/contests/template.pdf) to see it in the browser as PDF.
 - [xml](docs/contests/report.xml)
 - [xsl](docs/contests/report.xsl)
 - [result](docs/contests/report.pdf)
