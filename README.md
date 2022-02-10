@@ -23,3 +23,7 @@ This is a *double list*: the first is the contest and for each of them a second 
 ## HOW it works?
 
 TBD
+
+## Examples in detail
+
+TBD
